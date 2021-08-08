@@ -8,3 +8,4 @@ Dalam penelitian ini, peneliti menggunakan Bilateral Filter untuk mengurangi noi
 3.	Median Filtter
 Median filter merupakan suatu metode yang menitik beratkan pada nilai median atau nilai tengah dari jumlah total nilai keseluruhan pixel yang ada di sekelilingnya.
 Pemrosesan citra menggunakan median filter mampu mengurangi derau atau noise pada citra.
+4. Averaging
